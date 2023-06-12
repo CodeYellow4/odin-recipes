@@ -11,3 +11,8 @@ div h1 {
     width:fit-content;
     text-transform:uppercase;
 }
+
+img {
+    height: auto;
+    width: 400px;
+}
